@@ -1,0 +1,1 @@
+myButton.addEventListener('click', (w))
